@@ -11,7 +11,7 @@
 
 int main(int argc, char * argv[]) {
     NSLog(@"Hello World!");
-    NSLog(@"This is my first code!");
+    //NSLog(@"This is my first code!");
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
